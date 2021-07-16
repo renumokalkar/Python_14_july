@@ -6,7 +6,7 @@ print(type(a),a)
 b=float(num)
 print(type(b),b)
 c=bool(num)
-# print(type(c),c)
+print(type(c),c)
 
 #string to bool
 st="abc"
